@@ -14,3 +14,8 @@ Text Domain:  accelerate-theme-child
     background: url("img/taxi-photo.jpg") no-repeat scroll right center / cover rgba(0, 0, 0, 0);
 	text-align: center;
 }
+
+#masthead {
+  background: none repeat scroll 0 0 #333;
+  padding: .75em 0;
+}
