@@ -20,9 +20,5 @@ Text Domain:  accelerate-theme-child
 }
 
 .button {
-    font: 700 1em/1 'Montserrat', 'OpenSans', Arial, sans-serif;
-    color: #fff;
 	background: #333;
-    padding: 1em 3.75em;
-    text-align: center;
 }
