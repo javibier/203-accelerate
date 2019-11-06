@@ -18,3 +18,11 @@ Text Domain:  accelerate-theme-child
 #masthead {
   background: none repeat scroll 0 0 #45ac9d;
 }
+
+.button {
+    font: 700 1em/1 'Montserrat', 'OpenSans', Arial, sans-serif;
+    color: #fff;
+	background: #333;
+    padding: 1em 3.75em;
+    text-align: center;
+}
