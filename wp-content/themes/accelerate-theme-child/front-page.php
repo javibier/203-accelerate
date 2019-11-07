@@ -27,6 +27,10 @@ get_header(); ?>
         <div class="blog-post">
           <h4>From the Blog</h4>
             <?php query_posts('posts_per_page=1'); ?>
+            <?php while ( have_posts() ) : the_post(); ?>
+              // loop content here
+            <?php endwhile; ?> 
+            <?php wp_reset_query(); ?>
         </div>
       </div>
     </section>
