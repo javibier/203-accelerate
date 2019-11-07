@@ -22,3 +22,9 @@ Text Domain:  accelerate-theme-child
 .button {
 	background: #45ac9d;
 }
+
+.blog-post {
+	width: 50%;
+	float: left;
+	margin-bottom: 2em;
+}
